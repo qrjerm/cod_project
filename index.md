@@ -2,13 +2,13 @@
 Showcasing use of webscraping, Excel and PowerBI
 
 
-# [Completed COD Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
+# [Completed COD Project Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
 
 ## COD Dashboard: Project Overview
 * Call of Duty: Modern Warfare is a First Person Shooter game for PC, Xbox and Playstation
 * Statistics from the game are free and accessible on https://cod.tracker.gg/modern-warfare
 * In this project we use python to scrape data from the website to create our own dashboard for visualization and insights
-* [Click here to see completed Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
+* [Click here to see completed Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
 # [Click here to see the Jupyter Notebook with all the code used in this project!](https://github.com/qrjerm/cod_project/blob/main/FinalVersionCCT.ipynb)
 
 ## Resources Used
@@ -33,7 +33,7 @@ Showcasing use of webscraping, Excel and PowerBI
 * From there I used powerquery to split the Gamemode & Time column by splitting each column by 8 characters from the left since time is always in the format: 'HH:MM ##'
 
 ## Building Dashboard in PowerBI
-* Lastly I opened the finished table in PowerBI to create a [dashboard](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
+* Lastly I opened the finished table in PowerBI to create a [dashboard](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
 * Blue Segment includes:
   * Title
   * My game ID
@@ -48,4 +48,4 @@ Showcasing use of webscraping, Excel and PowerBI
   * Kills per game by map
   * Kills per game by gamemode
 
-[Click here to see completed Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
+[Click here to see completed Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
