@@ -17,7 +17,6 @@ Showcasing use of webscraping, Excel and PowerBI
 * Microsoft PowerBI
 * Data from [cod.tracker.gg/modern-warfare](https://cod.tracker.gg/modern-warfare/profile/battlenet/ChefRoy%2311358/mp/matches)
 
-# [Click here to see the Jupyter Notebook with all the code used in this project!](https://github.com/qrjerm/cod_project/blob/main/FinalVersionCCT.ipynb)
 ## Using Python to scrape data from the codtracker website
 * Using Selenium and Chromedriver I was able to load the codtracker website, go to my account and scrape the stats for each game
 * codtracker loads the last 20 games played by any player so keeping that in mind I cleaned the data using python
@@ -49,3 +48,4 @@ Showcasing use of webscraping, Excel and PowerBI
   * Kills per game by gamemode
 
 [Click here to see completed Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
+[Click here to see the Jupyter Notebook with all the code used in this project!](https://github.com/qrjerm/cod_project/blob/main/FinalVersionCCT.ipynb)
