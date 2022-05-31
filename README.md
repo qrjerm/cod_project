@@ -50,7 +50,8 @@ Showcasing use of webscraping, Excel and PowerBI
 * Line plots include:
   * Kills per game by map
   * Kills per game by gamemode
+ 
+ ![SampleDB](https://user-images.githubusercontent.com/82239548/171299155-c5de119c-54cf-4a8c-9238-e0301f9286ae.jpg)
 
-[Click here to see completed Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
 
 [Click here to see the Jupyter Notebook with all the code used in this project!](https://github.com/qrjerm/cod_project/blob/main/FinalVersionCCT.ipynb)
