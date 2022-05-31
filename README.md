@@ -48,4 +48,5 @@ Showcasing use of webscraping, Excel and PowerBI
   * Kills per game by gamemode
 
 [Click here to see completed Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
+
 [Click here to see the Jupyter Notebook with all the code used in this project!](https://github.com/qrjerm/cod_project/blob/main/FinalVersionCCT.ipynb)
