@@ -21,7 +21,8 @@ Showcasing use of webscraping, Excel and PowerBI
 * Using Selenium and Chromedriver I was able to load the codtracker website, go to my account and scrape the stats for each game
 * codtracker loads the last 20 games played by any player so keeping that in mind I cleaned the data using python
 * After converting the web elements into a list form there was some further cleaning to do so I converted all elements into a string
-* Once the data was cleaned I ran into an issue where the gamemode and time were recognized as one element so left them as is to clean later in Excel using powerquery
+* Once the data was cleaned I ran into an issue where the gamemode and time were recognized as one element so left them as is to clean later in Excel using powerquery (see image below)
+![Game Time](https://user-images.githubusercontent.com/82239548/171301733-0b3b7578-bf13-4946-85a4-3a88275ab627.jpg)
 
 ## Creating a Dataframe in Python with Pandas for visibility and accessibility in Excel
 * After cleaning up the data I created a dataframe of the last 20 games using Pandas and NumPy
