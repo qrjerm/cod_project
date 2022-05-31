@@ -27,6 +27,7 @@ Showcasing use of webscraping, Excel and PowerBI
 ## Creating a Dataframe in Python with Pandas for visibility and accessibility in Excel
 * After cleaning up the data I created a dataframe of the last 20 games using Pandas and NumPy
 * From there I change the numerical values from strings to numbers and exported the dataframe to a new sheet in excel in table form
+![Dataframe](https://user-images.githubusercontent.com/82239548/171301898-ff3ae36c-30ff-4982-89c6-b5dd3205cd20.jpg)
 
 ## Editing in excel using powerquery
 * I loaded the new file with game data from the last 20 games in excel
