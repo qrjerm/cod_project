@@ -1,6 +1,6 @@
 # cod_project
 Showcasing use of webscraping, Excel and PowerBI
-
+![SampleDB](https://user-images.githubusercontent.com/82239548/171299155-c5de119c-54cf-4a8c-9238-e0301f9286ae.jpg)
 
 # [Completed COD Project Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
 
