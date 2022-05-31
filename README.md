@@ -2,13 +2,13 @@
 Showcasing use of webscraping, Excel and PowerBI
 ![SampleDB](https://user-images.githubusercontent.com/82239548/171299155-c5de119c-54cf-4a8c-9238-e0301f9286ae.jpg)
 
-# [Completed COD Project Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
+# [Completed COD Project Dashboard (Pdf) - See above image](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
 
 ## COD Dashboard: Project Overview
 * Call of Duty: Modern Warfare is a First Person Shooter game for PC, Xbox and Playstation
 * Statistics from the game are free and accessible on https://cod.tracker.gg/modern-warfare
 * In this project we use python to scrape data from the website to create our own dashboard for visualization and insights
-* [Click here to see completed Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
+
 # [Click here to see the Jupyter Notebook with all the code used in this project!](https://github.com/qrjerm/cod_project/blob/main/FinalVersionCCT.ipynb)
 
 ## Resources Used
