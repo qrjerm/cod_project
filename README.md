@@ -31,7 +31,7 @@ Showcasing use of webscraping, Excel and PowerBI
 
 ## Editing in excel using powerquery
 * I loaded the new file with game data from the last 20 games in excel
-* From there I used powerquery to split the Gamemode & Time column by splitting each column by 8 characters from the left since time is always in the format: 'HH:MM ##'
+* From there I used powerquery to split the Gamemode & Time column by splitting each column by 8 characters from the right since time is always in the format: 'HH:MM ##'
 ![PowerQueryEditor](https://user-images.githubusercontent.com/82239548/171301952-34b3e2de-2d7c-4a3e-b658-c713901219bd.jpg)
 
 ## Gamemode and Time columns now neatly separated
